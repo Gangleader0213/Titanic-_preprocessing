@@ -24,10 +24,7 @@ To clean and preprocess the Titanic dataset for machine learning purposes.
 - `README.md` – this file.
 
 ## 🔗 Dataset:
-[Titanic Dataset - Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-
-## 📤 Submission:
-Upload your GitHub repo link after pushing these files.
+[Titanic Dataset - Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
